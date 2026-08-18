@@ -1,0 +1,7 @@
+# OS
+.DS_Store
+
+# Local query output / scratch
+*.log
+*.out
+output/
